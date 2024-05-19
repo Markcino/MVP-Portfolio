@@ -1,0 +1,5 @@
+*.env
+virtualenv/
+myenv/
+*.sqlite3
+myvenv/
